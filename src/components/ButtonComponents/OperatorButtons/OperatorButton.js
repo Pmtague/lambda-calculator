@@ -1,5 +1,4 @@
 import React from "react";
-import '../ButtonStyles.scss';
 
 const OperatorButton = (props) => {
   const {operator} = props;
